@@ -1,0 +1,47 @@
+C:\Users\CCBB\source\repos\Hospital\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+C:\Users\CCBB\source\repos\Hospital\Hospital\obj\Debug\Hospital.csproj.SuggestedBindingRedirects.cache
+C:\Users\CCBB\source\repos\Hospital\Hospital\obj\Debug\Hospital.csproj.ResolveComReference.cache
+C:\Users\CCBB\source\repos\Hospital\Hospital\obj\Debug\Hospital.Form1.resources
+C:\Users\CCBB\source\repos\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\CCBB\source\repos\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+C:\Users\CCBB\source\repos\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\CCBB\source\repos\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\CCBB\source\repos\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\CCBB\source\repos\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\CCBB\source\repos\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\CCBB\source\repos\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\CCBB\source\repos\Hospital\Hospital\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CCBB\source\repos\Hospital\Hospital\bin\Debug\itextsharp.dll
+C:\Users\CCBB\source\repos\Hospital\Hospital\bin\Debug\itextsharp.xml
+C:\Users\CCBB\source\repos\Hospital\Hospital\obj\Debug\Interop.PDFFilterLib.dll
+C:\Users\CCBB\source\repos\Hospital\Hospital\obj\Debug\Interop.PDFShellLib.dll
+C:\Users\CCBB\source\repos\Hospital\Hospital\obj\Debug\Interop.PDFSHELLSERVERLib.dll
+C:\Users\CCBB\source\repos\Hospital\Hospital\obj\Debug\Hospital.csproj.CopyComplete
+D:\Nueva carpeta\Hospital\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+D:\Nueva carpeta\Hospital\Hospital\obj\Debug\Hospital.csproj.SuggestedBindingRedirects.cache
+D:\Nueva carpeta\Hospital\Hospital\obj\Debug\Interop.PDFFilterLib.dll
+D:\Nueva carpeta\Hospital\Hospital\obj\Debug\Interop.PDFShellLib.dll
+D:\Nueva carpeta\Hospital\Hospital\obj\Debug\Interop.PDFSHELLSERVERLib.dll
+D:\Nueva carpeta\Hospital\Hospital\obj\Debug\Hospital.csproj.ResolveComReference.cache
+D:\Nueva carpeta\Hospital\Hospital\obj\Debug\Hospital.Form1.resources
+D:\Nueva carpeta\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+D:\Nueva carpeta\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+D:\Nueva carpeta\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\Hospital\Hospital\obj\Debug\Hospital.exe
+D:\Nueva carpeta\Hospital\Hospital\obj\Debug\Hospital.pdb
+D:\Nueva carpeta\Hospital\Hospital\bin\Debug\Hospital.exe.config
+D:\Nueva carpeta\Hospital\Hospital\bin\Debug\Hospital.exe
+D:\Nueva carpeta\Hospital\Hospital\bin\Debug\Hospital.pdb
+D:\Nueva carpeta\Hospital\Hospital\bin\Debug\BouncyCastle.Crypto.dll
+D:\Nueva carpeta\Hospital\Hospital\bin\Debug\itextsharp.dll
+D:\Nueva carpeta\Hospital\Hospital\bin\Debug\itextsharp.xml
+D:\Nueva carpeta\Hospital\Hospital\obj\Debug\Hospital.csproj.CopyComplete
+D:\Intro a Programacion\Hospital\Hospital\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+D:\Intro a Programacion\Hospital\Hospital\Hospital\obj\Debug\Hospital.csproj.SuggestedBindingRedirects.cache
+D:\Intro a Programacion\Hospital\Hospital\Hospital\obj\Debug\Hospital.csproj.ResolveComReference.cache
+D:\Intro a Programacion\Hospital\Hospital\Hospital\obj\Debug\Hospital.Form1.resources
+D:\Intro a Programacion\Hospital\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+D:\Intro a Programacion\Hospital\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+D:\Intro a Programacion\Hospital\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+D:\Intro a Programacion\Hospital\Hospital\Hospital\obj\Debug\Hospital.exe
+D:\Intro a Programacion\Hospital\Hospital\Hospital\obj\Debug\Hospital.pdb
